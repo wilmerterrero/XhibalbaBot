@@ -11,6 +11,7 @@
     "url": "git+https://github.com/Seventty/Xhibalba.git"
   },
   "keywords": [],
+  "type": "module",
   "author": "Seventty",
   "license": "ISC",
   "bugs": {
